@@ -1,0 +1,6 @@
+C:\Users\telos\Documents\Visual Studio 2013\Projects\Chapter2 - Program 4\TcpSever\bin\Debug\TcpSever.exe.config
+C:\Users\telos\Documents\Visual Studio 2013\Projects\Chapter2 - Program 4\TcpSever\bin\Debug\TcpSever.exe
+C:\Users\telos\Documents\Visual Studio 2013\Projects\Chapter2 - Program 4\TcpSever\bin\Debug\TcpSever.pdb
+C:\Users\telos\Documents\Visual Studio 2013\Projects\Chapter2 - Program 4\TcpSever\obj\Debug\TcpSever.csprojResolveAssemblyReference.cache
+C:\Users\telos\Documents\Visual Studio 2013\Projects\Chapter2 - Program 4\TcpSever\obj\Debug\TcpSever.exe
+C:\Users\telos\Documents\Visual Studio 2013\Projects\Chapter2 - Program 4\TcpSever\obj\Debug\TcpSever.pdb
